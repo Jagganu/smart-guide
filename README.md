@@ -6,11 +6,6 @@
   <img src="icons/icon128.png" alt="SmartGuide AI" width="128" />
 </div>
 
-<div align="center">
-  <img src="screenshots/screenshot1.png" alt="SmartGuide AI Analysis Tab" width="400" style="margin: 20px 10px;" />
-  <img src="screenshots/screenshot2.png" alt="SmartGuide AI Chat Tab" width="400" style="margin: 20px 10px;" />
-</div>
-
 ---
 
 ## ✨ Features
