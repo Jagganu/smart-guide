@@ -1,0 +1,14 @@
+# API keys — never commit these
+*.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Node (if ever used)
+node_modules/
